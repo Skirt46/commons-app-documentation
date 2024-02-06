@@ -1,4 +1,4 @@
-# 📝 Documentation
+                    # 📝 Documentation
 
 This repository acts as a wiki containing documentation for the Wikimedia Commons apps.
 
